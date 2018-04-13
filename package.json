@@ -1,0 +1,11 @@
+{
+  "name": "mathcalculator",
+  "version": "1.0.0",
+  "description": "This is a Math Calculator exxample using Cordova plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shawn Ellis",
+  "license": "ISC"
+}
